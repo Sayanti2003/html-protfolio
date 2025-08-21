@@ -212,7 +212,7 @@ ul li a{
 }
 @media(max-width:768px){
     .menuBody{
-        height:350vh;
+        height:400vh;
     }
     .item{
         grid-template-columns:1fr;
@@ -230,7 +230,7 @@ ul li a{
         width:90%;
     }
     .card{
-       height:250px;
+       height:300px;
        font-size: 1rem;
     }
     .card button{
