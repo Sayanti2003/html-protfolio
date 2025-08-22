@@ -212,7 +212,7 @@ ul li a{
 }
 @media(max-width:768px){
     .menuBody{
-        height:400vh;
+        height:450vh;
     }
     .item{
         grid-template-columns:1fr;
@@ -225,22 +225,10 @@ ul li a{
     .heading p{
         font-size: 1rem;
     }
-    .card img{
-        height:150px;
-        width:90%;
+    .menuBody ul li{
+        margin:15px;
     }
-    .card{
-       height:300px;
-       font-size: 1rem;
-    }
-    .card button{
-        padding:7px 20px;
-        font-size: 0.5rem;
-        margin:10px;
-    }
-    .card button:hover{
-        font-size: 0.8rem;
-    }
+   
 }
 
 
